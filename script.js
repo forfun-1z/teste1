@@ -1,6 +1,6 @@
 
     function sim() {
-        alert("Você aceitou namorar comigo! :D Hoje é 24/08/2024, não esquece hein! ")
+        alert("Você aceitou namorar comigo! :D Hoje é 24/08/2024, não esquece hein... Agora você tem uma data, Mi!")
     }
 
     function desvia(t) {
